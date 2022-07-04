@@ -1,0 +1,24 @@
+(base) gim-ijin-ui-MacBookAir:submission peach$ python3 local_evaluation.py
+Iteration  1 :
+Error =  0.1875
+Alpha =  0.7331685343967135
+Factor to increase weights =  2.6666666666666665
+Factor to decrease weights =  0.6153846153846154
+Iteration  2 :
+Error =  0.2375
+Alpha =  0.5832174425034353
+Factor to increase weights =  2.1052631578947367
+Factor to decrease weights =  0.6557377049180328
+Iteration  3 :
+Error =  0.4625
+Alpha =  0.07514110152466895
+Factor to increase weights =  1.081081081081081
+Factor to decrease weights =  0.9302325581395349
+Iteration  4 :
+Error =  0.5
+
+
+Testing:
+False positives:  13
+False negatives:  0
+Error rate:  0.16249999999999998
